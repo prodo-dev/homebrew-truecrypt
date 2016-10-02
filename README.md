@@ -9,6 +9,20 @@ The Open Crypto Audit Project is also providing [the mirror][truecrypt-verified-
 [Open Crypto Audit Project]: https://opencryptoaudit.org/
 [truecrypt-verified-mirror]: https://github.com/AuditProject/truecrypt-verified-mirror
 
+## Installation
+
+  1. [Install Homebrew][Homebrew].
+
+  2. Tap this repository:
+
+        brew tap prodo-ai/homebrew-truecrypt
+
+  3. Install TrueCrypt:
+
+        brew cask install truecrypt
+
+[Homebrew]: http://brew.sh/
+
 ## Version
 
 The version is 7.1a.
